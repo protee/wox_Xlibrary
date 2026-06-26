@@ -60,7 +60,8 @@ Starting with 4D v21, the recommended way to install wox_Xlibrary (and any ogToo
 3. Enter the following Git URL:  
    `protee/wox_Xlibrary`
 4. Choose the desired version (e.g., `main`, `latest`, or a specific release tag).
-5. Confirm the installation – the component will be automatically fetched from GitHub, placed in the `Components` folder, and linked to your project.
+5. Confirm the installation – the component will be automatically fetched from GitHub, and linked to your project.
+6. Don't forget to open your database structure settings dialog and go to the Security page to enable, if necessary, the Execute the "On host database event" method of the component option. This ensure your component is well initialised automatically.
 
 > **Note**: For team development, commit the dependency configuration file (`dependencies.json`) to your source control so all team members automatically fetch the same version from GitHub.
 
