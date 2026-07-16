@@ -4,7 +4,7 @@
 # wox_Xlibrary
 
 [![4D Component](https://img.shields.io/badge/4D-Component-blue)](#)
-[![4D v21+](https://img.shields.io/badge/4D-v21%2B-brightgreen)](#)
+[![4D 21+](https://img.shields.io/badge/4D-21%2B-brightgreen)](#)
 [![4DPop Compatible](https://img.shields.io/badge/4DPop-Compatible-orange)](#)
 [![License: Commercial](https://img.shields.io/badge/License-Commercial-red.svg)](#license)
 [![Platform: macOS & Windows](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-lightgrey)](#)
@@ -45,13 +45,13 @@ It is a **mandatory prerequisite** and is automatically installed with all free 
 ## Installation & Dependencies
 
 ### Prerequisites
-- **4D v21** or higher (Project mode recommended).
+- **4D 21** or higher (Project mode recommended).
 - [**wok_Krolific**](https://github.com/protee/wok_Krolific) – Licensing component (mandatory dependency).
 - The [**SVG with Classes**](https://github.com/vdelachaux/SVG-with-Classes) must be available in your project.
 
 ### Installation via Dependencies Manager (GitHub)
 
-Starting with 4D v21, the recommended way to install wox_Xlibrary (and any ogTools component) is through the **Dependencies Manager** using the **GitHub repository**:
+Starting with 4D 21, the recommended way to install wox_Xlibrary (and any ogTools component) is through the **Dependencies Manager** using the **GitHub repository**:
 
 1. In your 4D project, open the **Dependencies Manager** (`Project > Dependencies`).
 2. Click the `+` button and select **Add a dependency from a Git URL**.
